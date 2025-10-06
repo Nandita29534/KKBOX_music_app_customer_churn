@@ -1,6 +1,0 @@
-setup.py
-KKBox_WSDM.egg-info/PKG-INFO
-KKBox_WSDM.egg-info/SOURCES.txt
-KKBox_WSDM.egg-info/dependency_links.txt
-KKBox_WSDM.egg-info/requires.txt
-KKBox_WSDM.egg-info/top_level.txt
